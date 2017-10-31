@@ -1,0 +1,4 @@
+Django==1.11.6
+django-environ==0.4.4
+djangorestframework==3.7.1
+ipython==6.2.1mysqlclient==1.3.12
